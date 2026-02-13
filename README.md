@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## App: Focus Forge
 
-## Getting Started
+## Developer: Codec07 - Aarush Mehta
 
-First, run the development server:
+# App Description:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**An Interactive SaaS that allows user to forge their focus using many great features of the App all for FREE!**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Features Include
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. **Listing and Prioritizing Tasks**
+2. **Grouping multiple tasks cards of same category**
+3. **FREEMIUM Access to various In-App Utilities**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Utility List
 
-## Learn More
+**50 API-Tokens would be Credited every month**
 
-To learn more about Next.js, take a look at the following resources:
+1. Quotes (1 Token/call)
+2. Trivia Time (0.5 Token/call)
+3. Exercise (1 Tokens/call)
+4. Know Your History (2 Tokens/call)
+5. Focus Timer (Free, No Restrictions)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Note: Tokens Left for the following month would be continued during the next months refill and can be used for accessing the utilities**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**(Example) 50 Tokens credited initially, if 30 tokens are used, the rest 20 tokens would be added during the new refill hence new balance after one month would be 50 tokens + 20 tokens**
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---

@@ -8,16 +8,16 @@
 
 ### Features Include
 
-**Listing and Prioritizing Tasks**
-**Grouping multiple tasks cards of same category**
-**FREEMIUM Access to various In-App Utilities**
+1. **Listing and Prioritizing Tasks**
+2. **Grouping multiple tasks cards of same category**
+3. **FREEMIUM Access to various In-App Utilities**
 
 ### Utility List
 
 **50 API-Tokens would be Credited every month**
 
 1. Quotes (1 Token/call)
-2. Trivia Time (0.25 Token/call)
+2. Trivia Time (0.5 Token/call)
 3. Exercise (1 Tokens/call)
 4. Know Your History (2 Tokens/call)
 5. Focus Timer (Free, No Restrictions)
