@@ -11,6 +11,9 @@
 3. Task Cards
 4. Group Cards
 5. Bottom Bar
+6. General Notification
+7. Alert Notification
+8. Confirmation Notification
 
 ## Basic Pages:
 
@@ -27,7 +30,7 @@
 2. Trivia Time (200/month per account)
 3. Exercise (50/month per account)
 4. Know Your History (20/month per account)
-5. Country GDP (50 calls per account)
+5. Focus Timer
 
 ## Page Components:
 
