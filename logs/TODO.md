@@ -6,8 +6,8 @@
 
 ## Basic Components:
 
-1. Button
-2. Title
+1. Button (Done)
+2. Title (Not Required)
 3. Task Cards
 4. Group Cards
 5. Bottom Bar
