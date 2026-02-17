@@ -8,7 +8,7 @@ export default function CTA() {
                 <p className="text-gray-300 text-xl font-sans">Let's start by creating an account</p>
             </div>
             <div className="flex flex-row items-center justify-center gap-4 w-full">
-                <input type="mail" name="Email" id="ctaMail" className="bg-blue-100 text-black px-4 py-3 rounded-lg focus:outline-none focus:ring-1 focus:ring-blue-500 w-1/3 max" />
+                <input type="mail" placeholder="Email" name="Email" id="ctaMail" className="bg-slate-300 backdrop-blur-md text-black px-4 py-3 rounded-lg focus:outline-none focus:ring-1 focus:ring-blue-500 w-1/3 max" />
                 <Button text="Sign In" hLink="#"/>
             </div>
         </div>
